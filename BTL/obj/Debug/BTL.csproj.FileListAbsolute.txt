@@ -1,0 +1,56 @@
+C:\Users\Administrator.TR-OEQCQT3P486O\source\repos\BTL\BTL\bin\Debug\BTL.exe.config
+C:\Users\Administrator.TR-OEQCQT3P486O\source\repos\BTL\BTL\bin\Debug\BTL.exe
+C:\Users\Administrator.TR-OEQCQT3P486O\source\repos\BTL\BTL\bin\Debug\BTL.pdb
+C:\Users\Administrator.TR-OEQCQT3P486O\source\repos\BTL\BTL\obj\Debug\BTL.csprojAssemblyReference.cache
+C:\Users\Administrator.TR-OEQCQT3P486O\source\repos\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\Administrator.TR-OEQCQT3P486O\source\repos\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\Administrator.TR-OEQCQT3P486O\source\repos\BTL\BTL\obj\Debug\BTL.exe
+C:\Users\Administrator.TR-OEQCQT3P486O\source\repos\BTL\BTL\obj\Debug\BTL.pdb
+C:\Users\Administrator.TR-OEQCQT3P486O\source\repos\BTL\BTL\obj\Debug\BTL.FORMGIAODIEN.resources
+C:\Users\Administrator.TR-OEQCQT3P486O\source\repos\BTL\BTL\obj\Debug\BTL.Form2.resources
+C:\Users\Administrator.TR-OEQCQT3P486O\source\repos\BTL\BTL\obj\Debug\BTL.Form3.resources
+C:\Users\Administrator.TR-OEQCQT3P486O\source\repos\BTL\BTL\obj\Debug\BTL.Form4.resources
+C:\Users\Administrator.TR-OEQCQT3P486O\source\repos\BTL\BTL\obj\Debug\BTL.Form5.resources
+C:\Users\Administrator.TR-OEQCQT3P486O\source\repos\BTL\BTL\obj\Debug\BTL.Form6.resources
+F:\Môn học\Lập trình trực quan\BTL\BTL\bin\Debug\BTL.exe.config
+F:\Môn học\Lập trình trực quan\BTL\BTL\bin\Debug\BTL.exe
+F:\Môn học\Lập trình trực quan\BTL\BTL\bin\Debug\BTL.pdb
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.csprojAssemblyReference.cache
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.FORMGIAODIEN.resources
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.Form2.resources
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.Form3.resources
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.Form4.resources
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.Form5.resources
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.Form6.resources
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.exe
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.pdb
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.FrmThongTinMayTinh.resources
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.FrmThongTinNV.resources
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.FrmThongTin.resources
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.FrmThongTinLichTH.resources
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.FrmThongTinPM.resources
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.FrmTimKiem.resources
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.FrmTimKiemLichTH.resources
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.FrmTimKiemMayTinh.resources
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.FrmChip.resources
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.FrmCoManHinh.resources
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.FrmDungLuong.resources
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.FrmMaBanPhim.resources
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.FrmMaChuot.resources
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.FrmManHinh.resources
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.FrmMaODia.resources
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.FrmOCung.resources
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.FrmQuanLyMayTinh.resources
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.FrmRam.resources
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.FrmTocDo.resources
+F:\Môn học\Lập trình trực quan\BTL\BTL\bin\Debug\XanderUI.dll
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.csproj.CopyComplete
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.QLPhongMay.FrmQuanLyPM.resources
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.QLNhanVien.FrmQuanLyNV.resources
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.QLLichTH.FrmQuanLyLichTH.resources
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.QLLichTH.FrmCaHoc.resources
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.QLLichTH.FrmGiaoVien.resources
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.QLLichTH.FrmLop.resources
+F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.QLLichTH.FrmMonTH.resources
