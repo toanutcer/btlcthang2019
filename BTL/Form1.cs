@@ -72,7 +72,10 @@ namespace BTL
 
 		private void button7_Click(object sender, EventArgs e)
 		{
+<<<<<<< HEAD
             MessageBox.Show("Hello đm ");
+=======
+>>>>>>> 9450f7ec0f34ae983878e7f2ffd33c0c465e57cc
 			FrmThongTin thongTin = new FrmThongTin(sqlConnection);
 			thongTin.Show();
 		}
