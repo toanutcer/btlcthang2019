@@ -54,3 +54,45 @@ F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.QLLichTH.FrmCaHoc.r
 F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.QLLichTH.FrmGiaoVien.resources
 F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.QLLichTH.FrmLop.resources
 F:\Môn học\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.QLLichTH.FrmMonTH.resources
+D:\New folder\btlcthang2019\BTL\bin\Debug\BTL.exe.config
+D:\New folder\btlcthang2019\BTL\bin\Debug\BTL.exe
+D:\New folder\btlcthang2019\BTL\bin\Debug\BTL.pdb
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.csprojAssemblyReference.cache
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.FORMGIAODIEN.resources
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.Form2.resources
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.Form3.resources
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.Form4.resources
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.Form5.resources
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.Form6.resources
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.QLLichTH.FrmCaHoc.resources
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.QLLichTH.FrmGiaoVien.resources
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.QLLichTH.FrmLop.resources
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.QLLichTH.FrmMonTH.resources
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.QLLichTH.FrmQuanLyLichTH.resources
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.FrmChip.resources
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.FrmCoManHinh.resources
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.FrmDungLuong.resources
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.FrmMaBanPhim.resources
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.FrmMaChuot.resources
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.FrmManHinh.resources
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.FrmMaODia.resources
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.FrmOCung.resources
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.FrmQuanLyMayTinh.resources
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.FrmRam.resources
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.QLNhanVien.FrmQuanLyNV.resources
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.QLPhongMay.FrmQuanLyPM.resources
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.FrmThongTin.resources
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.FrmThongTinLichTH.resources
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.FrmThongTinMayTinh.resources
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.FrmThongTinNV.resources
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.FrmThongTinPM.resources
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.FrmTimKiem.resources
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.FrmTimKiemLichTH.resources
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.FrmTimKiemMayTinh.resources
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.FrmTocDo.resources
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.Properties.Resources.resources
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.csproj.CopyComplete
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.exe
+D:\New folder\btlcthang2019\BTL\obj\Debug\BTL.pdb

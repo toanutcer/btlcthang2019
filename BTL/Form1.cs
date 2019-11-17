@@ -52,7 +52,7 @@ namespace BTL
         {
 			string conn = @"Data Source=TOANUTC\SQLEXPRESS;Initial Catalog=PHONGMAY;Integrated Security=True";
 			sqlConnection = new SqlConnection(conn);
-			sqlConnection.Open();
+			//sqlConnection.Open();
 
 		}
 
@@ -72,7 +72,7 @@ namespace BTL
 
 		private void button7_Click(object sender, EventArgs e)
 		{
-            MessageBox.Show("Hello đm ");
+            MessageBox.Show("Hello đm m");
 			FrmThongTin thongTin = new FrmThongTin(sqlConnection);
 			thongTin.Show();
 		}
